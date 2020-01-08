@@ -27,6 +27,5 @@ class Waiter
     end
   end
  
-    best_tipped_meal.customer
-  end
+  best_tipped_meal.customer
 end
